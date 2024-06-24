@@ -2,6 +2,8 @@
 
 # OBJETIVO DEL TRABAJO
 
+El objetivo principal es desarrollar un modelo de aprendizaje automático capaz de identificar con precisión los comentarios sarcásticos en redes sociales. Esto podría tener aplicaciones en la moderación de contenido, el análisis de sentimientos y la comprensión del lenguaje natural.
+
 # PARTICIPANTES
 
 * Andy Johan Muñico Soto – u201523017
@@ -30,4 +32,4 @@ La CNN demostró una alta precisión en el entrenamiento pero mostró signos de 
 El modelo de ensamble alcanzó una precisión del 77.25% en el conjunto de prueba, mostrando una buena generalización.
 
 
-# LICENCIA
+# LICENCIA : APACHE-2.0
